@@ -1,4 +1,4 @@
-# Roman to Integer (LeetCode 13)
+# Roman to Integer
 
 ## 📝 Description
 Convertir un nombre romain en entier.  
